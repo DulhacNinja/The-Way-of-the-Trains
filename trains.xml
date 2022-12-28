@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root><train id="1"><departs_from>Russia</departs_from><arrives_in>Canada</arrives_in><departs_at delay="0">4:50</departs_at><arrives_at delay="0">5:50</arrives_at></train><train id="1"><departs_from>Russia</departs_from><arrives_in>Canada</arrives_in><departs_at delay="0">4:50</departs_at><arrives_at delay="0">5:50</arrives_at></train></root>
+<root><train id="0"><departs_from>Russia</departs_from><arrives_in>Canada</arrives_in><departs_at Japan</departs_from><arrives_in>Romania</arrives_in><departs_at delay="0">17:50</departs_at><arrives_at delay="0">22:50</arrives_at></train></root>
