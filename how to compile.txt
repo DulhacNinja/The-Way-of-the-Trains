@@ -1,0 +1,10 @@
+You'll need two separete terminals opened in the same folder as the source files.
+First terminal:
+
+gcc server.c -o server -lxml2
+./server
+
+Second terminal:
+
+gcc client.c -o client
+./client
